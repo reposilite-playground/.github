@@ -1,4 +1,4 @@
-This organization contains repositories & libraries used by [Reposilite](reposilite.com) project:
+This organization contains repositories & libraries used by [Reposilite](https://reposilite.com) project:
 
 | Project | Description |
 | :--- | :--- |
