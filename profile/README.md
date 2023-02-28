@@ -3,8 +3,10 @@ This organization contains repositories & libraries used by [Reposilite](https:/
 | Project | Description |
 | :--- | :--- |
 | [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) | Main project |
-| [reposilite-playground/reposilite-helm](https://github.com/reposilite-playground/reposilite-helm) | Helm Chart repository for Reposilite 3.x |
-| [reposilite-playground/reposilite-aur](https://github.com/reposilite-playground/reposilite-aur) | AUR package repository for Reposilite 3.x |
-| [reposilite-playground/exposed-upsert](https://github.com/reposilite-playground/exposed-upsert) | Upsert DSL extension for `Exposed`, Kotlin SQL framework |
-| [reposilite-playground/journalist](https://github.com/reposilite-playground/journalist) | Non-static logging library, easily testable with support for `tinylog` (`SLF4J` impl) |
-| [reposilite-playground/jsonforms](https://github.com/reposilite-playground/jsonforms) | Fork of JsonForms library to generate froms from jsonscheme by `reposilite-frontend` module |
+| [reposilite-helm](https://github.com/reposilite-playground/reposilite-helm) | Helm Chart repository for Reposilite 3.x |
+| [reposilite-aur](https://github.com/reposilite-playground/reposilite-aur) | AUR package repository for Reposilite 3.x |
+| [exposed-upsert](https://github.com/reposilite-playground/exposed-upsert) | Upsert DSL extension for `Exposed`, Kotlin SQL framework |
+| [journalist](https://github.com/reposilite-playground/journalist) | Non-static logging library, easily testable with support for `tinylog` (`SLF4J` impl) |
+| **Forks** | **Description** |
+| [jsonforms](https://github.com/reposilite-playground/jsonforms) | Customized fork of [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) library to generate forms from JsonSchema in `reposilite-frontend` module |
+| [nextjs-color-mode](https://github.com/reposilite-playground/nextjs-color-mode) | Backup repository for [Blazity/nextjs-color-mode](https://github.com/Blazity/nextjs-color-mode) |
