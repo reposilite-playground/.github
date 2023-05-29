@@ -10,3 +10,4 @@ This organization contains repositories & libraries used by [Reposilite](https:/
 | **Forks** | **Description** |
 | [jsonforms](https://github.com/reposilite-playground/jsonforms) | Customized fork of [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) library to generate forms from JsonSchema in `reposilite-frontend` module |
 | [nextjs-color-mode](https://github.com/reposilite-playground/nextjs-color-mode) | Backup repository for [Blazity/nextjs-color-mode](https://github.com/Blazity/nextjs-color-mode) |
+| [nexus3-export](https://github.com/reposilite-playground/nexus3-export) | Backup repository for [lbar/nexus3-export](https://github.com/lbar/nexus3-export)
